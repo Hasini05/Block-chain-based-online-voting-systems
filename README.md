@@ -1,1 +1,2 @@
 # Block-chain-based-online-voting-systems
+This project implements a secure and transparent online voting platform using blockchain technology. It ensures one voter can cast only one vote and stores all votes immutably on the blockchain. The system uses smart contracts to automate vote recording and counting, preventing fraud and manipulation. It aims to enhance trust and transparency in digital elections.All votes are stored immutably, enhancing trust and transparency in digital elections.
